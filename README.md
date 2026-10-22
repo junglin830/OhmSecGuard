@@ -1,5 +1,9 @@
 # OhmSecGuard
 
+> **📦 已併入 [OhmShield](https://github.com/junglin830/OhmShield)（2026-10-22）**：本工具現在是 OhmShield 的 `pc/` 模組，後續更新只在 OhmShield 進行。新使用者請直接用 OhmShield。
+> **Merged into [OhmShield](https://github.com/junglin830/OhmShield) as its `pc/` module. This repository is archived; please use OhmShield.**
+
+
 ![OhmSecGuard](assets/ohmsecguard_promo_poster_v1.png)
 
 **只看不改**的 Windows 個人電腦資安巡檢。零安裝依賴（Python 標準庫 + Windows 內建 PowerShell 5）。
